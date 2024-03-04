@@ -9,7 +9,7 @@ faces_path = "/kaggle/input/animebest/faces"  # 替换目录
 
 ## 数据集
 
-![](description1.png)
+![](data_example.png)
 
 ## Epoch
 
