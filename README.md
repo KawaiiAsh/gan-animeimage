@@ -25,3 +25,15 @@ faces_path = "/kaggle/input/animebest/faces"  # 替换目录
 -10 Epoch
 
 ![](epoch10.png)
+
+## 更新
+
+拿 4090 跑了个 200 个 epoch，效果好差，图片还是一坨狗屎，不知道增加转置卷积层 `nn.ConvTranspose2d` 效果能不能更好
+
+-170 Epoch
+
+![](epoch170.png)
+
+-200 Epoch
+
+![](epoch200.png)
