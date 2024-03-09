@@ -2,6 +2,8 @@
 
 蹭的 Kaggle.com 的 GPU P100 跑的，因此用的 Jupyter Notebook，懒得改成 Python 代码
 
+数据集: https://www.kaggle.com/datasets/liuxinleroy/animebest
+
 ``` Python
 ckpt_dir = '/kaggle/working/' # 替换目录
 faces_path = "/kaggle/input/animebest/faces"  # 替换目录
